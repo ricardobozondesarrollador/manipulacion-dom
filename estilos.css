@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+    background-color: rgb(49, 48, 48);
+}
+h1 {
+    color: rgb(175, 175, 54);
+}
+div {
+    background-color: grey;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 40px;
+
+}
+
+   
+input {
+    margin-top: 10px;
+    background-color: white;
+}
+
+
+button {
+    background-color: aqua;
+}
